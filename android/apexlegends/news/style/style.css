@@ -1,0 +1,171 @@
+html  {
+	background: #e5e1d8;
+	padding: 0px;
+	margin: 0px;
+	padding: 55px 9px 9px 9px;
+}
+
+img {
+	width: 100%;
+}
+
+div[itemscope] {
+	position: relative;
+	padding-bottom: 56.25%;
+	height: 0;
+}
+
+ea-youtube iframe {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}
+
+h3 {
+	color: #a63134;
+	font-size: 14pt;
+	margin: 30px 0px 15px 0px;
+	border-left: 5px solid #a63134;
+	padding-left: 10px;
+}
+
+h4 {
+	color: #a63134;
+	font-size: 12pt;
+	margin: 30px 0px 15px 0px;
+}
+
+b {
+	color: #a63134;
+}
+
+
+a {
+    color: #a63134;
+}
+
+ul li:before {
+    content: '';
+    display: block;
+    position: absolute;
+    left: 2px;
+    top: 4px;
+    width: 1px;
+    height: 1px;
+    border: 5px solid #c57f7f00;
+    border-left-color: #a63134;
+}
+
+ul li {
+    list-style: none;
+    position: relative;
+    padding-left: 20px;
+}
+
+ul {
+	padding: 0px;
+}
+
+.main_title {
+	color: #a63134;
+	font-size: 16pt;
+	margin: 30px 0px 15px 0px;
+	font-weight: bold;
+}
+
+
+
+.legend_box {
+	background-color: #dad3c9;
+	border-top: 2px solid #a63134;
+	border-bottom: 2px solid #a63134;
+	padding: 10px 0px 10px 0px;
+	margin-bottom: 15px;
+	margin-top: 15px;
+	font-weight: bold;
+	color: #44403a;
+}
+
+
+
+
+.badge {
+	flex-direction: row;
+	display: flex;
+	background-color: #dad3c9;
+	border-top: 2px solid #a63134;
+	border-bottom: 2px solid #a63134;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	padding: 20px;
+}
+
+.image_block {
+	flex: 25%;
+	margin-right: 20px;
+
+}
+.description_block {
+	flex: 75%;
+}
+.text_block {
+	color: green;
+}
+.description_block_title {
+	color: #a63134;
+	font-weight: bold;
+	padding: 0px;
+	margin-bottom: 5px;
+}
+
+.description_block_about {
+	font-weight: bold;
+	padding: 0px;
+	margin: 0px;
+}
+
+
+
+
+
+
+
+.tth {
+	margin-bottom: 5px;
+}
+
+
+.legend_name {
+	color: #a63134;
+	font-size: 16pt;
+	font-weight: bold;
+	margin: 30px 0px 15px 0px;
+	border-left: 5px solid #a63134;
+	padding-left: 10px;
+}
+
+.tth_number {
+	float: right;
+}
+
+.legend_tagline {
+	color: #a63134;
+	font-size: 12pt;
+	font-weight: bold;
+	margin: 15px 0px 15px 0px;
+}
+
+.legend_type {
+	color: #a63134;
+	font-size: 12pt;
+	margin: 15px 0px 15px 0px;
+}
+
+.legend_img {
+	height: 650px;
+	width: auto;
+	display: block;
+	margin: auto;
+}
