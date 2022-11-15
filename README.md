@@ -1,1 +1,1 @@
-# serverhosting
+# Server hosting
